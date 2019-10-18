@@ -4,6 +4,7 @@ target
 *.iml
 log
 patches
+.attach_pid*
 
 
 
