@@ -5,6 +5,5 @@ target
 log
 patches
 .attach_pid*
-*.properties
 
 
